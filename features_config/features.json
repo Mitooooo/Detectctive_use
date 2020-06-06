@@ -1,0 +1,22 @@
+[{
+  "path": "/manage/html",
+  "re_code": 200,
+  "re_version": "<title>Apache Tomcat/7.0.68</title>",
+  "feature": "tomcat_7.0.68"
+},{
+  "path": "/host-manager/html",
+  "re_code": 401,
+  "re_version": "",
+  "feature": "tomcat_basic"
+},{
+  "path": "/manage/html",
+  "re_code": 200,
+  "re_version": "",
+  "feature": ""
+},{
+  "path": "/project_Manager/login/plantlogin.jsp",
+  "re_code": 200,
+  "re_version": "",
+  "feature": "sssss"
+}
+]
